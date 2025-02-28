@@ -1,6 +1,6 @@
 # 👾 Pebi Heriansyah - Portofolio
 
-<img src="https://raw.githubusercontent.com/PebiHeriansyah/PebiHeriansyah/main/Profil.jpg" width="170" height="190" style="border-radius: 50%;"/>
+<img src="https://raw.githubusercontent.com/PebiHeriansyah/PebiHeriansyah/main/IMG_20250228_221148.jpg" width="170" height="190" style="border-radius: 50%;"/>
 
 ## 👋 Halo!
 Selamat datang di profil GitHub saya! Saya adalah seorang **Mahasiswa Aktif Universitas Bengkulu** yang cukup berpengalaman dalam **C++, MySQL, HTML dan CSS**. Saya senang memecahkan masalah kompleks dan mempelajari teknologi baru.
