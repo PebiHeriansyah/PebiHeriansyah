@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there! 👋 I'm Pebi Heriansyah  
 
-<!--
-**PebiHeriansyah/PebiHeriansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me:**  
+- 🎓 Student / Developer  
+- 💻 Passionate about Web Development, Machine Learning, and Open Source  
+- 🌱 Currently learning: Design and Analysis of Algorithms (DAA), Theory of Automata  
+- 🔭 Working on cool projects using Python, JavaScript, and more  
 
-Here are some ideas to get you started:
+📌 **Tech Stack:**  
+- 🔹 Languages: Python, JavaScript, C++  
+- 🔹 Frameworks: React, Node.js, Flask  
+- 🔹 Tools: Git, Docker, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 **Projects:**  
+- [📌 My Portfolio Website](https://your-portfolio-link.com)  
+- [💡 Project 1](https://github.com/yourusername/project1)  
+- [📊 Project 2](https://github.com/yourusername/project2)  
+
+📫 **Let's Connect!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/yourusername)  
