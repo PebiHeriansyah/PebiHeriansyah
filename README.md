@@ -32,17 +32,15 @@ Selamat datang di profil GitHub saya! Saya adalah seorang **Mahasiswa Aktif Univ
 ---
 
 ## 📊 Statistik GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PebiHeriansyah&show_icons=true&theme=radical)
 
 ---
 
 ## 📬 Hubungi Saya
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/PebiHeriansyah)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:pebih794@gmail.com)
 
 ---
 
-## 🎵 Fun Fact:
-> "Satu baris kode bisa mengubah dunia. Teruslah coding dan tetap luar biasa!" 🚀
+## 🎵 Kata-Kata Hari Ini:
+> "Koding adalah seni. Setiap baris kode membawa perubahan dan Kesulitan(Bug)!" 🚀
