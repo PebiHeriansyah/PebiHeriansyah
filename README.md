@@ -23,11 +23,11 @@ Selamat datang di profil GitHub saya! Saya adalah seorang **Mahasiswa Aktif Univ
 ---
 
 ## 📂 Proyek Unggulan
-### 🔥 (https://pebiheriansyah.github.io/Praktikum-2/)
+### 🔥 https://pebiheriansyah.github.io/Praktikum-2/
 
-### 🛠️ [Proyek 1](https://github.com/yourusername/project1)
+### 🛠️ https://pebiheriansyah.github.io/Praktikum-1/
 
-### 📊 [Proyek 2](https://github.com/yourusername/project2)
+### 🤖 https://pebiheriansyah.github.io/Tugas-Cooding-Kelas-A/
 
 ---
 
@@ -39,8 +39,8 @@ Selamat datang di profil GitHub saya! Saya adalah seorang **Mahasiswa Aktif Univ
 
 ## 📬 Hubungi Saya
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/PebiHeriansyah)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:pebih794@gmail.com)
 
 ---
 
