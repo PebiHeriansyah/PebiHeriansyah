@@ -45,4 +45,4 @@ Selamat datang di profil GitHub saya! Saya adalah seorang **Mahasiswa Aktif Univ
 ---
 
 ## 🎵 Kata-Kata Hari Ini:
-> "Koding adalah seni. Setiap baris kode membawa perubahan dan Kesulitan(Bug)!" 🚀
+> "Koding adalah seni. Setiap baris kode membawa perubahan dan kesulitan(Bug)!" 🚀
