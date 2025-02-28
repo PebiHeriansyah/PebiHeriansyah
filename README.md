@@ -1,3 +1,5 @@
+![Profil Saya](https://github.com/yourusername/yourrepository/blob/main/assets/foto.jpg)
+
 # 🚀 Pebi Heriansyah - Portofolio
 
 ## 👋 Halo!
