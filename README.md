@@ -1,4 +1,4 @@
-![Profil Saya](https://github.com/yourusername/yourrepository/blob/main/assets/foto.jpg)
+![Profil Saya](https://github.com/yourusername/yourrepository/blob/main/assets/IMG_20230929_213406.jpg)
 
 # 🚀 Pebi Heriansyah - Portofolio
 
