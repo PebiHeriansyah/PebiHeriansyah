@@ -1,4 +1,4 @@
-# 🚀 Pebi Heriansyah - Portofolio
+# 👾 Pebi Heriansyah - Portofolio
 
 ![Profil Saya](https://raw.githubusercontent.com/PebiHeriansyah/PebiHeriansyah/main/Profil.jpg)
 
@@ -10,13 +10,13 @@ Selamat datang di profil GitHub saya! Saya adalah seorang **Mahasiswa Aktif Univ
 ## 📌 Tentang Saya
 - 🌱 Saat ini belajar: **Proyek Pemrograman WEB**
 - 💼 Sedang mengerjakan: **Proyek Portofolio**
-- 🚀 Minat utama: **Pengembangan Web, Cloud Computing, Database, dan Desain UI/UX**
+- 🏆 Minat utama: **Pengembangan Web, Cloud Computing, Database, dan Desain UI/UX**
 - 🎯 Tujuan: Menciptakan aplikasi yang berdampak bagi dunia nyata
 
 ---
 
 ## 🛠️ Teknologi yang Dikuasai
-### 🚀 Bahasa & Tools
+### 📢 Bahasa & Tools
 - **Frontend:** HTML, CSS,
 - **Backend:** PHP, Laravel, Python (Flask/Django)
 - **Database:** MySQL
@@ -25,11 +25,11 @@ Selamat datang di profil GitHub saya! Saya adalah seorang **Mahasiswa Aktif Univ
 ---
 
 ## 📂 Proyek Unggulan
-### 🔥 https://pebiheriansyah.github.io/Praktikum-2/
+### 🥇 https://pebiheriansyah.github.io/Praktikum-2/
 
-### 🛠️ https://pebiheriansyah.github.io/Praktikum-1/
+### 🥈 https://pebiheriansyah.github.io/Praktikum-1/
 
-### 🤖 https://pebiheriansyah.github.io/Tugas-Cooding-Kelas-A/
+### 🥉 https://pebiheriansyah.github.io/Tugas-Cooding-Kelas-A/
 
 ---
 
