@@ -1,10 +1,10 @@
 # 👾 Pebi Heriansyah - Portofolio
 
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/PebiHeriansyah/PebiHeriansyah/main/IMG_20250228_221148.jpg" width="170" height="190">
 </p>
-
----
 
 <p align="justify">
 Selamat datang di profil GitHub saya! Saya adalah seorang <b>Mahasiswa Aktif Universitas Bengkulu</b> yang berpengalaman dalam <b>C++, MySQL, HTML, dan CSS</b>. Saya senang memecahkan masalah kompleks dan selalu ingin belajar hal baru untuk meningkatkan keterampilan saya.
