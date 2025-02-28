@@ -23,12 +23,11 @@ Selamat datang di profil GitHub saya! Saya adalah seorang **Mahasiswa Aktif Univ
 ---
 
 ## 📂 Proyek Unggulan
-### 🔥 [Situs Portofolio]([https://your-portfolio-link.com](https://pebiheriansyah.github.io/Praktikum-2/)
+### 🔥 (https://pebiheriansyah.github.io/Praktikum-2/)
 
 ### 🛠️ [Proyek 1](https://github.com/yourusername/project1)
 
 ### 📊 [Proyek 2](https://github.com/yourusername/project2)
-> Dashboard analitik data yang dibuat dengan React dan D3.js.
 
 ---
 
