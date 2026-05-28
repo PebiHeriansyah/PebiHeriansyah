@@ -1,62 +1,166 @@
-# 👾 Pebi Heriansyah - Portofolio
+# 👨‍🚀 Pebi Heriansyah
+
+### AI Systems Engineer • Fullstack Developer • Interactive 3D Web Engineer
 
 <p align="justify">
-Selamat datang di profil GitHub saya! Saya adalah seorang <b>Mahasiswa Aktif Universitas Bengkulu</b> yang berpengalaman dalam <b>C++, MySQL, HTML, dan CSS</b>. Saya senang memecahkan masalah kompleks dan selalu ingin belajar hal baru untuk meningkatkan keterampilan saya.
+Saya adalah mahasiswa Informatika di <b>Universitas Bengkulu</b> yang berfokus pada pengembangan <b>Artificial Intelligence, Fullstack Engineering, dan Interactive 3D Web Systems</b>. Saya memiliki ketertarikan besar dalam membangun platform digital modern yang menggabungkan <b>AI, visual interaktif, cinematic web experience, semantic systems, serta realtime rendering</b> untuk menciptakan pengalaman pengguna yang lebih imersif dan profesional.
+
+Saya aktif mengembangkan berbagai sistem berbasis <b>AI Engineering, Fullstack Architecture, dan Interactive Visualization</b> menggunakan teknologi modern seperti <b>React, Next.js, TypeScript, Laravel, Three.js, GSAP, dan Node.js</b>. Selain itu, saya juga memiliki pengalaman dalam membangun sistem absensi digital berbasis <b>QR Code dan GPS</b>, dashboard monitoring realtime, serta pengembangan antarmuka modern dengan pendekatan UI/UX interaktif.
+
+Saat ini saya sedang mengembangkan platform eksplorasi tata surya berbasis <b>Three.js dan WebGL</b> dengan tampilan cinematic modern ala NASA, lengkap dengan realtime interaction, orbit simulation, serta immersive visual experience.
+
 </p>
 
 ---
 
-## 📌 Tentang Saya
-- 🌱 Saat ini belajar: **Proyek Pemrograman WEB**
-- 💼 Sedang mengerjakan: **Proyek Portofolio**
-- 🏆 Minat utama: **Pengembangan Web, Cloud Computing, Database, dan Desain UI/UX**
-- 🎯 Tujuan: Menciptakan aplikasi yang berdampak bagi dunia nyata
+# 🚀 Fokus Pengembangan
+
+* 🤖 Artificial Intelligence Engineering
+* 🌌 Interactive 3D Web Experience
+* 🧠 Semantic Retrieval Systems
+* ⚡ Fullstack Web Application
+* 🎬 Cinematic Animation & Motion UI
+* ☁️ Modern Scalable Architecture
+* 🛰️ Realtime Visualization Systems
+* 📊 Dashboard & Monitoring Systems
 
 ---
 
-## 🛠️ Teknologi yang Dikuasai
-### 📢 Bahasa & Tools
-- **Frontend:**  
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+# 🧠 Keahlian Utama
 
-- **Backend:**  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+## 🤖 Artificial Intelligence
 
-- **Database:**  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+* AI Engineering
+* Retrieval-Augmented Generation (RAG)
+* Semantic Search System
+* AI Workspace Architecture
+* Contextual AI Interaction
+* AI-powered Dashboard System
 
-- **Lainnya:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-  ![Laragon](https://img.shields.io/badge/Laragon-1E90FF?style=for-the-badge&logo=laragon&logoColor=white)  
+## 🌐 Fullstack Development
+
+* React.js
+* Next.js
+* TypeScript
+* Node.js
+* Laravel
+* PHP
+* Python
+* REST API Development
+* Authentication & Authorization
+* Database Management
+
+## 🌌 3D & Interactive Engineering
+
+* Three.js
+* WebGL
+* GSAP Animation
+* ScrollTrigger
+* Cinematic Camera Movement
+* Interactive Solar System
+* Realtime Rendering
+* Immersive User Experience
+
+## 🎨 UI/UX Engineering
+
+* Modern Dashboard Interface
+* Responsive Web Design
+* Glassmorphism UI
+* Motion Interaction
+* NASA-style Interface Design
+* Interactive User Experience
 
 ---
 
-## 📂 Proyek Unggulan
-### 🏆 Proyek Saya:
-- 🥇 **[Praktikum 2](https://pebiheriansyah.github.io/Praktikum-2/)**
-- 🥈 **[Praktikum 1](https://pebiheriansyah.github.io/Praktikum-1/)**
-- 🥉 **[Tugas Coding Kelas A](https://pebiheriansyah.github.io/Tugas-Cooding-Kelas-A/)**
+# ⚡ Tech Stack
+
+## Frontend
+
+* React
+* Next.js
+* TypeScript
+* TailwindCSS
+* HTML5
+* CSS3
+* JavaScript
+
+## Backend
+
+* Node.js
+* Laravel
+* PHP
+* Python
+* Flask
+
+## Database & AI
+
+* MySQL
+* Prisma ORM
+* OpenAI API
+
+## 3D & Animation
+
+* Three.js
+* GSAP
+* ScrollTrigger
+* WebGL
+
+## Tools
+
+* Git & GitHub
+* Linux
+* VSCode
+* Laragon
+* XAMPP
+* Figma
 
 ---
 
-## 📊 Statistik GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PebiHeriansyah&show_icons=true&theme=radical" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PebiHeriansyah&theme=react-dark" />
-</p>
+# 🚀 Project
+
+## 🌌 Interactive Solar System Platform
+
+Platform eksplorasi tata surya realtime berbasis Three.js yang menghadirkan pengalaman visual modern dan interaktif melalui:
+
+* Planet interaction system
+* Orbit simulation
+* Cinematic intro animation
+* Deep-space visualization
+* NASA-inspired interface
+* Educational astronomy system
+* Realtime rendering experience
+
+## 🧠 AI Workspace System
+
+Workspace AI modern yang dirancang untuk memahami konteks kerja pengguna melalui:
+
+* Semantic retrieval
+* Repository understanding
+* File system interaction
+* AI orchestration
+* Intelligent workflow system
+
+## 📍 Digital Attendance System
+
+Sistem absensi digital berbasis QR Code dan GPS yang dikembangkan menggunakan Laravel dengan fitur:
+
+* QR Code attendance
+* GPS location validation
+* Geofencing system
+* Employee management
+* Realtime attendance monitoring
+* Attendance reporting system
 
 ---
 
-## 📬 Hubungi Saya
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/PebiHeriansyah)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:pebih794@gmail.com)  
+# 🎯 Filosofi
+
+> “Modern software is not only about coding,
+> but also about experience, architecture, visualization, and intelligence.” 🚀
 
 ---
 
-## 🎵 Kata-Kata Hari Ini:
-> "Koding adalah seni. Setiap baris kode membawa perubahan dan kesulitan (Bug)!" 🚀  
+# 📫 Kontak
+
+* Email : [deonxsanos@gmail.com](mailto:deonxsanos@gmail.com)
+* Location : Bengkulu, Indonesia
